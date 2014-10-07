@@ -1,14 +1,12 @@
-Ecosystem-Generator
+Blender Ecosystem Generator (BEG)
 ===================
 
-Blender Ecosystem Generator (BEG)
-
-REQUIREMENT:
+Requirement:
 ===================
 
 Blender 2.7.x
 
-INSTRUCTION TO INSTALL:
+Instructions to Install:
 ===================
 
 1.	Installare il software Blender, scaricabile dal sito http://www.blender.org/.
