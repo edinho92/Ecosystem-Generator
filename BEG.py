@@ -770,10 +770,6 @@ class SetNumberParticles(bpy.types.Operator):
 		part_system = list_ps[index_ps]
 		part_settings = bpy.data.particles[part_system.settings.name]
 		part_settings.count = self.value
-		if(self.value > 1000):
-			oggetto.draw_type = 'BOUNDS'
-		else:
-			oggetto.draw_type = 'TEXTURED'
 		return {'FINISHED'}
 		
 	def invoke(self, context, event):
