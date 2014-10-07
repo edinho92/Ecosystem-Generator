@@ -1,5 +1,6 @@
 Blender Ecosystem Generator (BEG)
 ===================
+La documentazione dell'Add-On è all'interno del file Blender Ecosystem Editor.pdf, nel quarto capitolo.
 
 Requirement:
 ===================
